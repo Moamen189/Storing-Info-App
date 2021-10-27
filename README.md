@@ -18,7 +18,7 @@
 In Home page you can add person Name, National ID, ID Card Photo.
 
 ### 2- Admin Page
-In Admin page you cancheck an see all the persons that entered and stored in the Database and you van search for any person and sort all the persons in asc or desc way.
+In Admin page you can check To see all the persons that entered and stored in the Database and you Can search for any person and sort all the persons in asc or desc way.
 
 # App Photos
 ![project web 1](https://user-images.githubusercontent.com/79394414/139133436-b24f826f-d929-4e7d-912d-b4f653ab0eb9.PNG)
