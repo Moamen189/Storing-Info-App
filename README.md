@@ -3,7 +3,8 @@
 
 # Programming Lang and IDEs Used
 ### Programming Languages :
-- PHP & React (Frontend Frame Work)
+- PHP 
+- React (Frontend Frame Work)
 - HTML & CSS ( Markup Language).
 - MySQL DataBase
  
