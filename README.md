@@ -3,10 +3,10 @@
 
 # Programming Lang and IDEs Used
 ### Programming Languages :
-- PHP .
+- PHP & React (Frontend Frame Work)
 - HTML & CSS ( Markup Language).
 - MySQL DataBase
--React (Frontend Frame Work)
+ 
 
 ### IDEs :
 - VS (Visual Studio Code) IDE.
@@ -20,8 +20,10 @@ In Home page you can add person Name, National ID, ID Card Photo.
 In Admin page you cancheck an see all the persons that entered and stored in the Database and you van search for any person and sort all the persons in asc or desc way.
 
 # App Photos
-![photo_2021-10-27_19-02-34](file:///C:/Users/Momen/Desktop/project%20web%201.PNG)
-![photo_2021-10-27_19-02-37](file:///C:/Users/Momen/Desktop/project%20web%202.PNG)
+![project web 1](https://user-images.githubusercontent.com/79394414/139133436-b24f826f-d929-4e7d-912d-b4f653ab0eb9.PNG)
+![project web 2](https://user-images.githubusercontent.com/79394414/139133488-0cf41eca-2e5d-47d5-91c8-86312f33214e.PNG)
+
+
 
 
 # License
