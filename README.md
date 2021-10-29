@@ -30,7 +30,7 @@ In Admin page you can check To see all the persons that entered and stored in th
 # License
 MIT License
 
-Copyright (c) [2021] [Mo'men Ashraf Mohamed]
+Copyright (c) [2021] [Mo'men Ashraf Muhamed]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
